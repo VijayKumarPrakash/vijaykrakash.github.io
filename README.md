@@ -1,2 +1,2 @@
-# http://vijaykrakash.github.io
+# http://VijayKumarPrakash.github.io
 SimpliFly Website
